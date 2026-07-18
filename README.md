@@ -168,7 +168,7 @@ Throughout these 30 days, I learned how to:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/30-Days-of-Machine-Learning.git
+git clone https://github.com/MohammedHabibQureshi/30-Days-of-Machine-Learning.git
 ```
 
 Move into the project directory
@@ -303,15 +303,7 @@ This project is licensed under the MIT License.
 IoT & Embedded Systems Engineer | Cybersecurity Enthusiast | Machine Learning Learner
 
 * GitHub: https://github.com/MohammedHabibQureshi
-* LinkedIn: https://www.linkedin.com/in/md-habib-qureshi/
-
----
-
-## 🌟 Thank You!
-
-Thank you for exploring this repository. I hope this learning journey helps beginners understand Machine Learning concepts step by step while serving as a valuable resource for interview preparation and hands-on practice.
-
-**Happy Learning! 🚀**
+* LinkedIn: # 🚀 30 Days of Machine Learning with Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python">
@@ -481,7 +473,7 @@ Throughout these 30 days, I learned how to:
 Clone the repository
 
 ```bash
-git clone https://github.com/MohammedHabibQureshi/30-Days-of-Machine-Learning.git
+git clone https://github.com/your-username/30-Days-of-Machine-Learning.git
 ```
 
 Move into the project directory
@@ -616,7 +608,16 @@ This project is licensed under the MIT License.
 IoT & Embedded Systems Engineer | Cybersecurity Enthusiast | Machine Learning Learner
 
 * GitHub: https://github.com/MohammedHabibQureshi
-* LinkedIn: https://www.linkedin.com/in/md-habib-qureshi
+* LinkedIn: https://www.linkedin.com/in/md-habib-qureshi/
+
+---
+
+## 🌟 Thank You!
+
+Thank you for exploring this repository. I hope this learning journey helps beginners understand Machine Learning concepts step by step while serving as a valuable resource for interview preparation and hands-on practice.
+
+**Happy Learning! 🚀**
+
 
 ---
 
