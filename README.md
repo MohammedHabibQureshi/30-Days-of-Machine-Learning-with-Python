@@ -481,7 +481,7 @@ Throughout these 30 days, I learned how to:
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/30-Days-of-Machine-Learning.git
+git clone https://github.com/MohammedHabibQureshi/30-Days-of-Machine-Learning.git
 ```
 
 Move into the project directory
